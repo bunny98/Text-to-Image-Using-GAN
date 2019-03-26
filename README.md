@@ -1,6 +1,4 @@
-![TAC-GAN](https://chalelele.files.wordpress.com/2017/05/logo.png)
-
-This is the official Tensorflow implementation of TAC-GAN model presented in
+This is the Tensorflow implementation of TAC-GAN model presented in
 [https://arxiv.org/abs/1703.06412](https://arxiv.org/abs/1703.06412).
 
 Text Conditioned Auxiliary Classifier Generative Adversarial Network,
