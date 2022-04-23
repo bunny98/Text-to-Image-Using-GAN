@@ -148,7 +148,7 @@ Once you have trained the model for certain epochs you can generate images for a
 python train.py --data_set=flowers --epochs=100 --output_dir=Data/synthetic_dataset --checkpoints_dir=Data/training/TAC_GAN/checkpoints
 ```
 
-Notice that the ***checkpoints*** directory is ls created automatically created inside the ***model*** directory after you run the training script.
+Notice that the ***checkpoints*** directory is created automatically created inside the ***model*** directory after you run the training script.
 
 This script will create the following directory structure:
 
