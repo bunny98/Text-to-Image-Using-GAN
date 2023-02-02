@@ -53,5 +53,5 @@ tornado==4.5.1
 traitlets==4.3.2
 typing==3.6.1
 wcwidth==0.1.7
-Werkzeug==0.12.2
+Werkzeug==0.15.5
 widgetsnbextension==2.0.0
